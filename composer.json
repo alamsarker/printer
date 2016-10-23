@@ -1,6 +1,5 @@
 {
-    "name": "kalam/printer",
-    "version" : "1.0.0",
+    "name": "kalam/printer",    
     "description": "Print invoice",
     "license": "MIT",
     "keywords": ["print", "Printer"],    
