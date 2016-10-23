@@ -3,7 +3,8 @@
     "version" : "1.0.0",
     "description": "Print invoice",
     "license": "MIT",
-    "keywords": ["print", "Printer"],
+    "keywords": ["print", "Printer"],    
+    "minimum-stability": "dev",
     "authors": [
         {
             "name":"Kausar Alam",
