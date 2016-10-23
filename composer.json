@@ -1,12 +1,13 @@
 {
     "name": "kalam/printer",
+    "version" : "1.0.0",
     "description": "Print invoice",
     "license": "MIT",
     "keywords": ["print", "Printer"],
     "authors": [
         {
             "name":"Kausar Alam",
-            "email":"alam.iiuc@gmail.com",            
+            "email":"alam.iiuc@gmail.com",
             "role":"Developer"
         }
     ],
